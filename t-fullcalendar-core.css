@@ -434,6 +434,7 @@ a.fc-more:hover {
     -moz-osx-font-smoothing: grayscale;
     width: 1em;
     height: 1em
+    line-height: .8em;
 }
 
 .fc-icon-chevron-left:before {
@@ -487,7 +488,7 @@ a.fc-more:hover {
     background-color: transparent;
     border: 1px solid transparent;
     padding: 0 .5em;
-    font-size: 1.2em;
+    font-size: .9em;
     border-radius: .25em;
     box-shadow: none;
 }
@@ -624,7 +625,7 @@ a.fc-more:hover {
 }
 
 .fc-toolbar h2 {
-    font-size: 1.75em;
+    font-size: 1em;
     margin: 0;
     color: rgba(255,255,255, .75);
 }
@@ -765,5 +766,5 @@ a.fc-more:hover {
 
 .fc-createCal-button {
     color: white;
-    font-size: 1.5em;
+    font-size: 1em;
 }
